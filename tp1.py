@@ -20,7 +20,7 @@ LIMITE_CROUPIER: int = 9
 MISE: int = 5
 ARGENT_DEPART: int = 15
 ARGENT_OBJECTIF: int = 30
-DELAI_CROUPIER: float = 0.2
+DELAI_CROUPIER: float = 1.0
 
 ANSI_RESET: str = "\u001B[0m"
 ANSI_RED: str = "\u001B[31m"
